@@ -9,7 +9,9 @@ Primeros comandos ->git touch index.html ->git touch readme.md ->git mkdir estil
 PRIMER COMMIT ->git commit -m "Estructura inicial del proyecto" ->git push origin main 
 RAMAS INDIVIDUALES ->git branch Ada ->git checkout Ada  
 COLABORACION Y PULL REQUESTS ->git push origin Ada
-REQURDTS Y MERGE ->
+REQURDTS Y MERGE -> se entra al github le damos en requests y unimos la main con Ada se hace un comentario y se hace el merge, esperamos que no tenga ningun error y si lo tiene se arregla y se vuelve a intentar  
+REPOSITORIOS LOCALES -> git pull origin Ada
+
 
 ### Eimer Jesus Santiago Hernandez
 
