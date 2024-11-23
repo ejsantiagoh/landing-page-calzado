@@ -5,9 +5,9 @@
     font-family: "Bebas Neue", sans-serif;
   }
 
-.container{
+.container1{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/);
+    url(/imagenes/adidas-shoes.jpg);
     height: 75vh;
     border: 3px solid white;
     background-size: auto;
