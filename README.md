@@ -11,5 +11,3 @@ RAMAS INDIVIDUALES ->git branch Ada ->git checkout Ada
 
 ### Eimer Jesus Santiago Hernandez
 
-Se creó inicialmente el repositorio en GitHub, se enlaza de manera local, se crea el readme 
-
